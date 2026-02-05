@@ -1,5 +1,5 @@
 # Hi! I'm Heather
-Computer Science Graduate | Software Engineering Minor | Aspiring Software Engineer
+Computer Science Graduate | Software Engineering Minor | Aspiring Software Developer
 
 I’m an early-career software developer passionate about building interactive, user-focused applications. I have experience with frontend and backend development, databases, and web frameworks, and I enjoy designing systems that are both intuitive and maintainable.
 
